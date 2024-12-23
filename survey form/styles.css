@@ -1,0 +1,57 @@
+#description
+{
+  font-style:italic;
+  color:rgb(255,0,127);
+  font-size:24px;
+}
+#title,#description
+{
+  text-align:center;
+}
+
+#name,#email,#number
+{
+  font-size:15px;
+  margin-bottom:10px;
+}
+#second label,#third label{
+  display:block;
+  font-size:18px;
+  margin:10px 0;
+}
+#submit
+{
+  width:25%;
+  font-size:16px;
+  padding:10px 0;
+  background:linear-gradient(rgba(255,0,127,0.5),yellow,green);
+  border:none;
+  margin-top:10px;
+}
+#dropdown
+{
+  font-size:15px;
+}
+fieldset p{
+  font-size:18px;
+}
+fieldset{
+  border:none;
+}
+
+#survey-form{
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
